@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class h1 {
+public class TrainingHW {
 
     public static void main(String[] args){
 
